@@ -43,7 +43,6 @@ A simple weather app using the API from [https://www.weather-forecast.com](https
 * JavaScript
   * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  * [](https://devdocs.io/javascript/)
 * PHP
   * [php](https://www.php.net/docs.php)
   * [PHP: Hypertext Preprocessor](https://devdocs.io/php/)
