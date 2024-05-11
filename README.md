@@ -28,6 +28,8 @@ A simple weather app using the API from [https://www.weather-forecast.com](https
 
     .
     ├── img - folder contains all images
+    ├── CODE_OF_CONDUCT.md - project code of conduct
+    ├── COPYRIGHT - project copyright
     ├── index.php - program code of the web application
     ├── LICENSE - contains license text
     └── README.md - contains project information
@@ -61,4 +63,10 @@ A simple weather app using the API from [https://www.weather-forecast.com](https
 
 This project is licensed under the terms of the [GPL v3](LICENSE).
 
+## :copyright: Copyright
 
+See the [COPYRIGHT](COPYRIGHT) file for copyright and licensing details.
+
+## :straight_ruler: Code of Conduct
+
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to this project.
