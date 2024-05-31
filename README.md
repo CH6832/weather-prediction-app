@@ -28,7 +28,6 @@ A simple weather app using the API from [https://www.weather-forecast.com](https
 
     .
     ├── img - folder contains all images
-    ├── CODE_OF_CONDUCT.md - project code of conduct
     ├── COPYRIGHT - project copyright
     ├── index.php - program code of the web application
     ├── LICENSE - contains license text
